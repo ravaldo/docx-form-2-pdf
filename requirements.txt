@@ -1,0 +1,6 @@
+opencv-python
+python-docx
+pywin32
+numpy
+reportlab
+pdfrw
