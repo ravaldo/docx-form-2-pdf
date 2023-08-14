@@ -13,7 +13,7 @@ This is a python script which uses some 3rd party packages, a pdf printer driver
 * install [Bullzip PDF Printer](https://www.bullzip.com/products/pdf/info.php), a feature-laden printer driver that supports cli control.
 * install [Ghostscript](https://www.ghostscript.com/releases/index.html), the de facto open source pdf renderer.
 
-You can run it from the command line ```python docxform2pdf.py "<input.dox>"``` or drag and drop your word file onto the script's icon.
+You can run it from the command line ```python docxform2pdf.py "input.docx"``` or drag and drop your word file onto the script's icon.
 
 
 ### How does it work?
